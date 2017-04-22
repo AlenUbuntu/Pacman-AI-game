@@ -15,4 +15,4 @@ This is a Pacman Game but integrated with Artificial Intelligence. It is based o
 
 ##### alpha-beta pruning
 
-![alpha beta pruning](GIFS/alpha-beta\ pruning2.gif)
+![alpha beta pruning](GIFS/alphabeta.gif)
